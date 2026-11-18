@@ -1,5 +1,7 @@
 RESIZER | Windows 64-bit
 
+**[Pobierz Resizer.exe](https://github.com/MichalPisanczuk/PhotoResizer/releases/latest/download/Resizer.exe)** (Windows 64-bit, bez instalacji) · [wszystkie wersje](https://github.com/MichalPisanczuk/PhotoResizer/releases)
+
 1. Wypakuj Resizer.exe do wybranego folderu i uruchom go.
    Aplikacja działa lokalnie i nie wymaga instalacji Pythona.
 2. Kliknij „Dodaj zdjęcia…” i zaznacz wiele plików.
